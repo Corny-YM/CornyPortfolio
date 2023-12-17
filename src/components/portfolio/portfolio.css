@@ -24,6 +24,7 @@
     justify-content: center;
     align-items: center;
     min-height: 230px;
+    aspect-ratio: 16 / 9;
 }
 .portfolio__item-image img {
     width: 100%;
@@ -39,7 +40,6 @@
     gap: 1rem;
     margin-bottom: 1rem;
 }
-
 
 /* RESPONSIVE */
 /* ================= MEDIA QUERIES (MEDIUM DEVICES) ================= */
@@ -57,4 +57,3 @@
         gap: 1rem;
     }
 }
-
